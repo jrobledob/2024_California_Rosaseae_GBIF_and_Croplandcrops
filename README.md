@@ -21,7 +21,7 @@ This repository contains the resources and scripts to develop an adjacency matri
 
 ### 3. **Set Resolution and Extent**
    - Match the resolution and extent of the two datasets:
-     - The GBIF dataset is forced to fit the croplandCROPS raster.
+     - The the croplandCROPS is forced to fit GBIF raster.
      - Delete GBIF raster values that are not within California.
    - Perform a weighted sum of the two rasters, with:
      - GBIF: weight = **0.2**
