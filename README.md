@@ -1,5 +1,3 @@
-Here’s a **README.md** file based on the information you provided. You can save this file as `README.md` in your GitHub repository.
-
 ---
 
 # Adjacency Matrix for Rosaceae Detections in GBIF and Stone Fruits in California
